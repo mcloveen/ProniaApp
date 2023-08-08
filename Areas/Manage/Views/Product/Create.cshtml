@@ -1,0 +1,74 @@
+﻿@{
+    ViewData["Title"] = "Create";
+}
+
+@model CreateProductVM
+
+@section styles{
+    <link href="~/assets/select2/css/select2.min.css" rel="stylesheet" />
+}
+
+<form method="post" enctype="multipart/form-data">
+    <div class="mb-3">
+        <label for="exampleInputEmail1" class="form-label">Name</label>
+        <input class="form-control" asp-for="Name">
+        <span class="text-danger" asp-validation-for="Name"></span>
+    </div>
+    <div class="mb-3">
+        <label for="exampleInputEmail1" class="form-label">Description</label>
+        <input class="form-control" asp-for="Description">
+        <span class="text-danger" asp-validation-for="Description"></span>
+    </div>
+    <div class="mb-3">
+        <label for="exampleInputEmail1" class="form-label">Price</label>
+        <input class="form-control" asp-for="Price">
+        <span class="text-danger" asp-validation-for="Price"></span>
+    </div>
+    <div class="mb-3">
+        <label for="exampleInputEmail1" class="form-label">Discount</label>
+        <input class="form-control" asp-for="Discount">
+        <span class="text-danger" asp-validation-for="Discount"></span>
+    </div>
+    <div class="mb-3">
+        <label for="exampleInputEmail1" class="form-label">StockCount</label>
+        <input class="form-control" asp-for="StockCount">
+        <span class="text-danger" asp-validation-for="StockCount"></span>
+    </div>
+    <div class="mb-3">
+        <label for="exampleInputEmail1" class="form-label">Rating</label>
+        <input class="form-control" asp-for="Rating">
+        <span class="text-danger" asp-validation-for="Rating"></span>
+    </div>
+    <div class="mb-3">
+        <label for="exampleInputEmail1" class="form-label">Category</label>
+        <select class="hello w-100" asp-for="CategoryIds" asp-items="@ViewBag.Categories" multiple="multiple">
+        </select>
+        <span class="text-danger" asp-validation-for="CategoryIds"></span>
+    </div>
+    <div class="mb-3">
+        <label for="exampleInputEmail1" class="form-label">MainImageFile</label>
+        <input class="form-control" asp-for="MainImageFile">
+        <span class="text-danger" asp-validation-for="MainImageFile"></span>
+    </div>
+    <div class="mb-3">
+        <label for="exampleInputEmail1" class="form-label">HoverImageFile</label>
+        <input class="form-control" asp-for="HoverImageFile">
+        <span class="text-danger" asp-validation-for="HoverImageFile"></span>
+    </div>
+    <div class="mb-3">
+        <label for="ImageFiles" class="form-label">ImageFiles</label>
+        <input class="form-control" asp-for="ImageFiles">
+        <span class="text-danger" asp-validation-for="ImageFiles"></span>
+    </div>
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>
+
+@section scripts{
+    <script src="~/assets/select2/js/select2.min.js"></script>
+    <partial name="_ValidationPartial" />
+    <script>$(document).ready(function () {
+            $('.hello').select2({
+                maximumSelectionLength: 4
+            });
+        });</script>
+}

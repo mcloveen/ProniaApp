@@ -1,0 +1,93 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Models\" />
+    <None Remove="Extensions\" />
+    <None Remove="ExtensionServices\" />
+    <None Remove="ExtensionServices\Implements\" />
+    <None Remove="ExtensionServices\Interfaces\" />
+    <None Remove="Services\" />
+    <None Remove="Services\Implements\" />
+    <None Remove="Services\Interfaces\" />
+    <None Remove="Views\Flower\" />
+    <None Remove="Views\Shared\Components\" />
+    <None Remove="Views\Shared\Components\Footer\" />
+    <None Remove="Views\Shared\Components\Header\" />
+    <None Remove="ViewModels\" />
+    <None Remove="ViewModels\BasketVMs\" />
+    <None Remove="ViewModels\HomeVMs\" />
+    <None Remove="ViewModels\ProductVMs\" />
+    <None Remove="ViewModels\SliderVMs\" />
+    <None Remove="ViewComponents\" />
+    <None Remove="Areas\" />
+    <None Remove="Areas\Manage\" />
+    <None Remove="Areas\Manage\Controllers\" />
+    <None Remove="Areas\Manage\Views\" />
+    <None Remove="Areas\Manage\Views\Category\" />
+    <None Remove="Areas\Manage\Views\Product\" />
+    <None Remove="Areas\Manage\Views\Slider\" />
+    <None Remove="Areas\Manage\Views\Shared\" />
+    <None Remove="DataAccess\" />
+    <None Remove="ViewModels\AuthVMs\" />
+    <None Remove="Views\Auth\" />
+    <None Remove="Views\Shared\Components\Basket\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Models\" />
+    <Folder Include="wwwroot\" />
+    <Folder Include="Extensions\" />
+    <Folder Include="ExtensionServices\" />
+    <Folder Include="ExtensionServices\Implements\" />
+    <Folder Include="ExtensionServices\Interfaces\" />
+    <Folder Include="Services\" />
+    <Folder Include="Services\Implements\" />
+    <Folder Include="Services\Interfaces\" />
+    <Folder Include="wwwroot\assets\" />
+    <Folder Include="Views\Flower\" />
+    <Folder Include="Views\Shared\Components\" />
+    <Folder Include="Views\Shared\Components\Footer\" />
+    <Folder Include="Views\Shared\Components\Header\" />
+    <Folder Include="ViewModels\" />
+    <Folder Include="ViewModels\BasketVMs\" />
+    <Folder Include="ViewModels\HomeVMs\" />
+    <Folder Include="ViewModels\ProductVMs\" />
+    <Folder Include="ViewModels\SliderVMs\" />
+    <Folder Include="ViewComponents\" />
+    <Folder Include="Areas\" />
+    <Folder Include="Areas\Manage\" />
+    <Folder Include="Areas\Manage\Controllers\" />
+    <Folder Include="Areas\Manage\Views\" />
+    <Folder Include="Areas\Manage\Views\Category\" />
+    <Folder Include="Areas\Manage\Views\Product\" />
+    <Folder Include="Areas\Manage\Views\Slider\" />
+    <Folder Include="Areas\Manage\Views\Shared\" />
+    <Folder Include="DataAccess\" />
+    <Folder Include="ViewModels\AuthVMs\" />
+    <Folder Include="Views\Auth\" />
+    <Folder Include="Views\Shared\Components\Basket\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Remove="wwwroot\" />
+    <Content Remove="wwwroot\assets\" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.20" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="6.0.20" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="6.0.20">
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      <PrivateAssets>all</PrivateAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="6.0.20">
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      <PrivateAssets>all</PrivateAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson" Version="6.0.20" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="6.0.20" />
+  </ItemGroup>
+</Project>

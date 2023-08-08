@@ -1,0 +1,35 @@
+﻿
+@{
+    ViewData["Title"] = "Update";
+}
+
+@model Slider
+
+<form method="post">
+    <div class="mb-3">
+        <label for="exampleInputEmail1" class="form-label">Title</label>
+        <input class="form-control" asp-for="Title">
+        <span class="text-danger" asp-validation-for="Title"></span>
+    </div>
+    <div class="mb-3">
+        <label for="exampleInputEmail1" class="form-label">Description</label>
+        <input class="form-control" asp-for="Description">
+        <span class="text-danger" asp-validation-for="Description"></span>
+    </div>
+    <div class="mb-3">
+        <label for="exampleInputEmail1" class="form-label">Offer</label>
+        <input class="form-control" asp-for="Offer">
+        <span class="text-danger" asp-validation-for="Offer"></span>
+    </div>
+    <div class="mb-3">
+        <label for="exampleInputEmail1" class="form-label">Button Text</label>
+        <input class="form-control" asp-for="ButtonText">
+        <span class="text-danger" asp-validation-for="ButtonText"></span>
+    </div>
+    <div class="mb-3">
+        <label for="exampleInputEmail1" class="form-label">ImageUrl</label>
+        <input class="form-control" asp-for="ImageUrl">
+        <span class="text-danger" asp-validation-for="ImageUrl"></span>
+    </div>
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>

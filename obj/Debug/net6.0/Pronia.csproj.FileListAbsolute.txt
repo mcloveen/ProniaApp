@@ -1,0 +1,231 @@
+/Users/mcloveen/Projects/ProniaApp/ProniaNew/bin/Debug/net6.0/appsettings.Development.json
+/Users/mcloveen/Projects/ProniaApp/ProniaNew/bin/Debug/net6.0/appsettings.json
+/Users/mcloveen/Projects/ProniaApp/ProniaNew/bin/Debug/net6.0/Pronia.staticwebassets.runtime.json
+/Users/mcloveen/Projects/ProniaApp/ProniaNew/bin/Debug/net6.0/Pronia
+/Users/mcloveen/Projects/ProniaApp/ProniaNew/bin/Debug/net6.0/Pronia.deps.json
+/Users/mcloveen/Projects/ProniaApp/ProniaNew/bin/Debug/net6.0/Pronia.runtimeconfig.json
+/Users/mcloveen/Projects/ProniaApp/ProniaNew/bin/Debug/net6.0/Pronia.dll
+/Users/mcloveen/Projects/ProniaApp/ProniaNew/bin/Debug/net6.0/Pronia.pdb
+/Users/mcloveen/Projects/ProniaApp/ProniaNew/bin/Debug/net6.0/Humanizer.dll
+/Users/mcloveen/Projects/ProniaApp/ProniaNew/bin/Debug/net6.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/mcloveen/Projects/ProniaApp/ProniaNew/bin/Debug/net6.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/mcloveen/Projects/ProniaApp/ProniaNew/bin/Debug/net6.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/mcloveen/Projects/ProniaApp/ProniaNew/bin/Debug/net6.0/Microsoft.AspNetCore.JsonPatch.dll
+/Users/mcloveen/Projects/ProniaApp/ProniaNew/bin/Debug/net6.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+/Users/mcloveen/Projects/ProniaApp/ProniaNew/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/Users/mcloveen/Projects/ProniaApp/ProniaNew/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/mcloveen/Projects/ProniaApp/ProniaNew/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/mcloveen/Projects/ProniaApp/ProniaNew/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/mcloveen/Projects/ProniaApp/ProniaNew/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/mcloveen/Projects/ProniaApp/ProniaNew/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/mcloveen/Projects/ProniaApp/ProniaNew/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/mcloveen/Projects/ProniaApp/ProniaNew/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/mcloveen/Projects/ProniaApp/ProniaNew/bin/Debug/net6.0/Microsoft.Extensions.Identity.Core.dll
+/Users/mcloveen/Projects/ProniaApp/ProniaNew/bin/Debug/net6.0/Microsoft.Extensions.Identity.Stores.dll
+/Users/mcloveen/Projects/ProniaApp/ProniaNew/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/Users/mcloveen/Projects/ProniaApp/ProniaNew/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/mcloveen/Projects/ProniaApp/ProniaNew/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/mcloveen/Projects/ProniaApp/ProniaNew/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/Users/mcloveen/Projects/ProniaApp/ProniaNew/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/mcloveen/Projects/ProniaApp/ProniaNew/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/mcloveen/Projects/ProniaApp/ProniaNew/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/mcloveen/Projects/ProniaApp/ProniaNew/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/mcloveen/Projects/ProniaApp/ProniaNew/bin/Debug/net6.0/Newtonsoft.Json.Bson.dll
+/Users/mcloveen/Projects/ProniaApp/ProniaNew/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/Users/mcloveen/Projects/ProniaApp/ProniaNew/bin/Debug/net6.0/System.Diagnostics.DiagnosticSource.dll
+/Users/mcloveen/Projects/ProniaApp/ProniaNew/bin/Debug/net6.0/System.Drawing.Common.dll
+/Users/mcloveen/Projects/ProniaApp/ProniaNew/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/mcloveen/Projects/ProniaApp/ProniaNew/bin/Debug/net6.0/System.Runtime.Caching.dll
+/Users/mcloveen/Projects/ProniaApp/ProniaNew/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/mcloveen/Projects/ProniaApp/ProniaNew/bin/Debug/net6.0/System.Security.Permissions.dll
+/Users/mcloveen/Projects/ProniaApp/ProniaNew/bin/Debug/net6.0/System.Windows.Extensions.dll
+/Users/mcloveen/Projects/ProniaApp/ProniaNew/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/mcloveen/Projects/ProniaApp/ProniaNew/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/mcloveen/Projects/ProniaApp/ProniaNew/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/mcloveen/Projects/ProniaApp/ProniaNew/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/mcloveen/Projects/ProniaApp/ProniaNew/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/mcloveen/Projects/ProniaApp/ProniaNew/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/mcloveen/Projects/ProniaApp/ProniaNew/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/mcloveen/Projects/ProniaApp/ProniaNew/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/mcloveen/Projects/ProniaApp/ProniaNew/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/mcloveen/Projects/ProniaApp/ProniaNew/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/mcloveen/Projects/ProniaApp/ProniaNew/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/mcloveen/Projects/ProniaApp/ProniaNew/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/mcloveen/Projects/ProniaApp/ProniaNew/obj/Debug/net6.0/Pronia.csproj.AssemblyReference.cache
+/Users/mcloveen/Projects/ProniaApp/ProniaNew/obj/Debug/net6.0/Pronia.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mcloveen/Projects/ProniaApp/ProniaNew/obj/Debug/net6.0/Pronia.AssemblyInfoInputs.cache
+/Users/mcloveen/Projects/ProniaApp/ProniaNew/obj/Debug/net6.0/Pronia.AssemblyInfo.cs
+/Users/mcloveen/Projects/ProniaApp/ProniaNew/obj/Debug/net6.0/Pronia.csproj.CoreCompileInputs.cache
+/Users/mcloveen/Projects/ProniaApp/ProniaNew/obj/Debug/net6.0/Pronia.MvcApplicationPartsAssemblyInfo.cache
+/Users/mcloveen/Projects/ProniaApp/ProniaNew/obj/Debug/net6.0/Pronia.RazorAssemblyInfo.cache
+/Users/mcloveen/Projects/ProniaApp/ProniaNew/obj/Debug/net6.0/Pronia.RazorAssemblyInfo.cs
+/Users/mcloveen/Projects/ProniaApp/ProniaNew/obj/Debug/net6.0/staticwebassets/msbuild.Pronia.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/mcloveen/Projects/ProniaApp/ProniaNew/obj/Debug/net6.0/staticwebassets/msbuild.build.Pronia.props
+/Users/mcloveen/Projects/ProniaApp/ProniaNew/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.Pronia.props
+/Users/mcloveen/Projects/ProniaApp/ProniaNew/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.Pronia.props
+/Users/mcloveen/Projects/ProniaApp/ProniaNew/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/mcloveen/Projects/ProniaApp/ProniaNew/obj/Debug/net6.0/staticwebassets.build.json
+/Users/mcloveen/Projects/ProniaApp/ProniaNew/obj/Debug/net6.0/staticwebassets.development.json
+/Users/mcloveen/Projects/ProniaApp/ProniaNew/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/mcloveen/Projects/ProniaApp/ProniaNew/obj/Debug/net6.0/scopedcss/bundle/Pronia.styles.css
+/Users/mcloveen/Projects/ProniaApp/ProniaNew/obj/Debug/net6.0/scopedcss/projectbundle/Pronia.bundle.scp.css
+/Users/mcloveen/Projects/ProniaApp/ProniaNew/obj/Debug/net6.0/Pronia.csproj.CopyComplete
+/Users/mcloveen/Projects/ProniaApp/ProniaNew/obj/Debug/net6.0/Pronia.dll
+/Users/mcloveen/Projects/ProniaApp/ProniaNew/obj/Debug/net6.0/refint/Pronia.dll
+/Users/mcloveen/Projects/ProniaApp/ProniaNew/obj/Debug/net6.0/Pronia.pdb
+/Users/mcloveen/Projects/ProniaApp/ProniaNew/obj/Debug/net6.0/Pronia.genruntimeconfig.cache
+/Users/mcloveen/Projects/ProniaApp/ProniaNew/obj/Debug/net6.0/ref/Pronia.dll
+/Users/mcloveen/Desktop/Pronia App/Pronia/bin/Debug/net6.0/appsettings.Development.json
+/Users/mcloveen/Desktop/Pronia App/Pronia/bin/Debug/net6.0/appsettings.json
+/Users/mcloveen/Desktop/Pronia App/Pronia/bin/Debug/net6.0/Pronia.staticwebassets.runtime.json
+/Users/mcloveen/Desktop/Pronia App/Pronia/bin/Debug/net6.0/Pronia
+/Users/mcloveen/Desktop/Pronia App/Pronia/bin/Debug/net6.0/Pronia.deps.json
+/Users/mcloveen/Desktop/Pronia App/Pronia/bin/Debug/net6.0/Pronia.runtimeconfig.json
+/Users/mcloveen/Desktop/Pronia App/Pronia/bin/Debug/net6.0/Pronia.dll
+/Users/mcloveen/Desktop/Pronia App/Pronia/bin/Debug/net6.0/Pronia.pdb
+/Users/mcloveen/Desktop/Pronia App/Pronia/bin/Debug/net6.0/Humanizer.dll
+/Users/mcloveen/Desktop/Pronia App/Pronia/bin/Debug/net6.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/mcloveen/Desktop/Pronia App/Pronia/bin/Debug/net6.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/mcloveen/Desktop/Pronia App/Pronia/bin/Debug/net6.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/mcloveen/Desktop/Pronia App/Pronia/bin/Debug/net6.0/Microsoft.AspNetCore.JsonPatch.dll
+/Users/mcloveen/Desktop/Pronia App/Pronia/bin/Debug/net6.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+/Users/mcloveen/Desktop/Pronia App/Pronia/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/Users/mcloveen/Desktop/Pronia App/Pronia/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/mcloveen/Desktop/Pronia App/Pronia/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/mcloveen/Desktop/Pronia App/Pronia/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/mcloveen/Desktop/Pronia App/Pronia/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/mcloveen/Desktop/Pronia App/Pronia/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/mcloveen/Desktop/Pronia App/Pronia/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/mcloveen/Desktop/Pronia App/Pronia/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/mcloveen/Desktop/Pronia App/Pronia/bin/Debug/net6.0/Microsoft.Extensions.Identity.Core.dll
+/Users/mcloveen/Desktop/Pronia App/Pronia/bin/Debug/net6.0/Microsoft.Extensions.Identity.Stores.dll
+/Users/mcloveen/Desktop/Pronia App/Pronia/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/Users/mcloveen/Desktop/Pronia App/Pronia/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/mcloveen/Desktop/Pronia App/Pronia/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/mcloveen/Desktop/Pronia App/Pronia/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/Users/mcloveen/Desktop/Pronia App/Pronia/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/mcloveen/Desktop/Pronia App/Pronia/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/mcloveen/Desktop/Pronia App/Pronia/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/mcloveen/Desktop/Pronia App/Pronia/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/mcloveen/Desktop/Pronia App/Pronia/bin/Debug/net6.0/Newtonsoft.Json.Bson.dll
+/Users/mcloveen/Desktop/Pronia App/Pronia/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/Users/mcloveen/Desktop/Pronia App/Pronia/bin/Debug/net6.0/System.Diagnostics.DiagnosticSource.dll
+/Users/mcloveen/Desktop/Pronia App/Pronia/bin/Debug/net6.0/System.Drawing.Common.dll
+/Users/mcloveen/Desktop/Pronia App/Pronia/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/mcloveen/Desktop/Pronia App/Pronia/bin/Debug/net6.0/System.Runtime.Caching.dll
+/Users/mcloveen/Desktop/Pronia App/Pronia/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/mcloveen/Desktop/Pronia App/Pronia/bin/Debug/net6.0/System.Security.Permissions.dll
+/Users/mcloveen/Desktop/Pronia App/Pronia/bin/Debug/net6.0/System.Windows.Extensions.dll
+/Users/mcloveen/Desktop/Pronia App/Pronia/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/mcloveen/Desktop/Pronia App/Pronia/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/mcloveen/Desktop/Pronia App/Pronia/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/mcloveen/Desktop/Pronia App/Pronia/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/mcloveen/Desktop/Pronia App/Pronia/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/mcloveen/Desktop/Pronia App/Pronia/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/mcloveen/Desktop/Pronia App/Pronia/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/mcloveen/Desktop/Pronia App/Pronia/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/mcloveen/Desktop/Pronia App/Pronia/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/mcloveen/Desktop/Pronia App/Pronia/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/mcloveen/Desktop/Pronia App/Pronia/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/mcloveen/Desktop/Pronia App/Pronia/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/mcloveen/Desktop/Pronia App/Pronia/obj/Debug/net6.0/Pronia.csproj.AssemblyReference.cache
+/Users/mcloveen/Desktop/Pronia App/Pronia/obj/Debug/net6.0/Pronia.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mcloveen/Desktop/Pronia App/Pronia/obj/Debug/net6.0/Pronia.AssemblyInfoInputs.cache
+/Users/mcloveen/Desktop/Pronia App/Pronia/obj/Debug/net6.0/Pronia.AssemblyInfo.cs
+/Users/mcloveen/Desktop/Pronia App/Pronia/obj/Debug/net6.0/Pronia.csproj.CoreCompileInputs.cache
+/Users/mcloveen/Desktop/Pronia App/Pronia/obj/Debug/net6.0/Pronia.MvcApplicationPartsAssemblyInfo.cache
+/Users/mcloveen/Desktop/Pronia App/Pronia/obj/Debug/net6.0/Pronia.RazorAssemblyInfo.cache
+/Users/mcloveen/Desktop/Pronia App/Pronia/obj/Debug/net6.0/Pronia.RazorAssemblyInfo.cs
+/Users/mcloveen/Desktop/Pronia App/Pronia/obj/Debug/net6.0/staticwebassets/msbuild.Pronia.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/mcloveen/Desktop/Pronia App/Pronia/obj/Debug/net6.0/staticwebassets/msbuild.build.Pronia.props
+/Users/mcloveen/Desktop/Pronia App/Pronia/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.Pronia.props
+/Users/mcloveen/Desktop/Pronia App/Pronia/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.Pronia.props
+/Users/mcloveen/Desktop/Pronia App/Pronia/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/mcloveen/Desktop/Pronia App/Pronia/obj/Debug/net6.0/staticwebassets.build.json
+/Users/mcloveen/Desktop/Pronia App/Pronia/obj/Debug/net6.0/staticwebassets.development.json
+/Users/mcloveen/Desktop/Pronia App/Pronia/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/mcloveen/Desktop/Pronia App/Pronia/obj/Debug/net6.0/scopedcss/bundle/Pronia.styles.css
+/Users/mcloveen/Desktop/Pronia App/Pronia/obj/Debug/net6.0/scopedcss/projectbundle/Pronia.bundle.scp.css
+/Users/mcloveen/Desktop/Pronia App/Pronia/obj/Debug/net6.0/Pronia.csproj.CopyComplete
+/Users/mcloveen/Desktop/Pronia App/Pronia/obj/Debug/net6.0/Pronia.dll
+/Users/mcloveen/Desktop/Pronia App/Pronia/obj/Debug/net6.0/refint/Pronia.dll
+/Users/mcloveen/Desktop/Pronia App/Pronia/obj/Debug/net6.0/Pronia.pdb
+/Users/mcloveen/Desktop/Pronia App/Pronia/obj/Debug/net6.0/Pronia.genruntimeconfig.cache
+/Users/mcloveen/Desktop/Pronia App/Pronia/obj/Debug/net6.0/ref/Pronia.dll
+/Users/mcloveen/Desktop/ProniaApp/Pronia/bin/Debug/net6.0/appsettings.Development.json
+/Users/mcloveen/Desktop/ProniaApp/Pronia/bin/Debug/net6.0/appsettings.json
+/Users/mcloveen/Desktop/ProniaApp/Pronia/bin/Debug/net6.0/Pronia.staticwebassets.runtime.json
+/Users/mcloveen/Desktop/ProniaApp/Pronia/bin/Debug/net6.0/Pronia
+/Users/mcloveen/Desktop/ProniaApp/Pronia/bin/Debug/net6.0/Pronia.deps.json
+/Users/mcloveen/Desktop/ProniaApp/Pronia/bin/Debug/net6.0/Pronia.runtimeconfig.json
+/Users/mcloveen/Desktop/ProniaApp/Pronia/bin/Debug/net6.0/Pronia.dll
+/Users/mcloveen/Desktop/ProniaApp/Pronia/bin/Debug/net6.0/Pronia.pdb
+/Users/mcloveen/Desktop/ProniaApp/Pronia/bin/Debug/net6.0/Humanizer.dll
+/Users/mcloveen/Desktop/ProniaApp/Pronia/bin/Debug/net6.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/mcloveen/Desktop/ProniaApp/Pronia/bin/Debug/net6.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/mcloveen/Desktop/ProniaApp/Pronia/bin/Debug/net6.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/mcloveen/Desktop/ProniaApp/Pronia/bin/Debug/net6.0/Microsoft.AspNetCore.JsonPatch.dll
+/Users/mcloveen/Desktop/ProniaApp/Pronia/bin/Debug/net6.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+/Users/mcloveen/Desktop/ProniaApp/Pronia/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/Users/mcloveen/Desktop/ProniaApp/Pronia/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/mcloveen/Desktop/ProniaApp/Pronia/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/mcloveen/Desktop/ProniaApp/Pronia/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/mcloveen/Desktop/ProniaApp/Pronia/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/mcloveen/Desktop/ProniaApp/Pronia/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/mcloveen/Desktop/ProniaApp/Pronia/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/mcloveen/Desktop/ProniaApp/Pronia/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/mcloveen/Desktop/ProniaApp/Pronia/bin/Debug/net6.0/Microsoft.Extensions.Identity.Core.dll
+/Users/mcloveen/Desktop/ProniaApp/Pronia/bin/Debug/net6.0/Microsoft.Extensions.Identity.Stores.dll
+/Users/mcloveen/Desktop/ProniaApp/Pronia/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/Users/mcloveen/Desktop/ProniaApp/Pronia/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/mcloveen/Desktop/ProniaApp/Pronia/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/mcloveen/Desktop/ProniaApp/Pronia/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/Users/mcloveen/Desktop/ProniaApp/Pronia/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/mcloveen/Desktop/ProniaApp/Pronia/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/mcloveen/Desktop/ProniaApp/Pronia/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/mcloveen/Desktop/ProniaApp/Pronia/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/mcloveen/Desktop/ProniaApp/Pronia/bin/Debug/net6.0/Newtonsoft.Json.Bson.dll
+/Users/mcloveen/Desktop/ProniaApp/Pronia/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/Users/mcloveen/Desktop/ProniaApp/Pronia/bin/Debug/net6.0/System.Diagnostics.DiagnosticSource.dll
+/Users/mcloveen/Desktop/ProniaApp/Pronia/bin/Debug/net6.0/System.Drawing.Common.dll
+/Users/mcloveen/Desktop/ProniaApp/Pronia/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/mcloveen/Desktop/ProniaApp/Pronia/bin/Debug/net6.0/System.Runtime.Caching.dll
+/Users/mcloveen/Desktop/ProniaApp/Pronia/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/mcloveen/Desktop/ProniaApp/Pronia/bin/Debug/net6.0/System.Security.Permissions.dll
+/Users/mcloveen/Desktop/ProniaApp/Pronia/bin/Debug/net6.0/System.Windows.Extensions.dll
+/Users/mcloveen/Desktop/ProniaApp/Pronia/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/mcloveen/Desktop/ProniaApp/Pronia/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/mcloveen/Desktop/ProniaApp/Pronia/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/mcloveen/Desktop/ProniaApp/Pronia/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/mcloveen/Desktop/ProniaApp/Pronia/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/mcloveen/Desktop/ProniaApp/Pronia/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/mcloveen/Desktop/ProniaApp/Pronia/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/mcloveen/Desktop/ProniaApp/Pronia/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/mcloveen/Desktop/ProniaApp/Pronia/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/mcloveen/Desktop/ProniaApp/Pronia/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/mcloveen/Desktop/ProniaApp/Pronia/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/mcloveen/Desktop/ProniaApp/Pronia/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/mcloveen/Desktop/ProniaApp/Pronia/obj/Debug/net6.0/Pronia.csproj.AssemblyReference.cache
+/Users/mcloveen/Desktop/ProniaApp/Pronia/obj/Debug/net6.0/Pronia.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mcloveen/Desktop/ProniaApp/Pronia/obj/Debug/net6.0/Pronia.AssemblyInfoInputs.cache
+/Users/mcloveen/Desktop/ProniaApp/Pronia/obj/Debug/net6.0/Pronia.AssemblyInfo.cs
+/Users/mcloveen/Desktop/ProniaApp/Pronia/obj/Debug/net6.0/Pronia.csproj.CoreCompileInputs.cache
+/Users/mcloveen/Desktop/ProniaApp/Pronia/obj/Debug/net6.0/Pronia.MvcApplicationPartsAssemblyInfo.cache
+/Users/mcloveen/Desktop/ProniaApp/Pronia/obj/Debug/net6.0/Pronia.RazorAssemblyInfo.cache
+/Users/mcloveen/Desktop/ProniaApp/Pronia/obj/Debug/net6.0/Pronia.RazorAssemblyInfo.cs
+/Users/mcloveen/Desktop/ProniaApp/Pronia/obj/Debug/net6.0/staticwebassets/msbuild.Pronia.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/mcloveen/Desktop/ProniaApp/Pronia/obj/Debug/net6.0/staticwebassets/msbuild.build.Pronia.props
+/Users/mcloveen/Desktop/ProniaApp/Pronia/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.Pronia.props
+/Users/mcloveen/Desktop/ProniaApp/Pronia/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.Pronia.props
+/Users/mcloveen/Desktop/ProniaApp/Pronia/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/mcloveen/Desktop/ProniaApp/Pronia/obj/Debug/net6.0/staticwebassets.build.json
+/Users/mcloveen/Desktop/ProniaApp/Pronia/obj/Debug/net6.0/staticwebassets.development.json
+/Users/mcloveen/Desktop/ProniaApp/Pronia/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/mcloveen/Desktop/ProniaApp/Pronia/obj/Debug/net6.0/scopedcss/bundle/Pronia.styles.css
+/Users/mcloveen/Desktop/ProniaApp/Pronia/obj/Debug/net6.0/scopedcss/projectbundle/Pronia.bundle.scp.css
+/Users/mcloveen/Desktop/ProniaApp/Pronia/obj/Debug/net6.0/Pronia.csproj.CopyComplete
+/Users/mcloveen/Desktop/ProniaApp/Pronia/obj/Debug/net6.0/Pronia.dll
+/Users/mcloveen/Desktop/ProniaApp/Pronia/obj/Debug/net6.0/refint/Pronia.dll
+/Users/mcloveen/Desktop/ProniaApp/Pronia/obj/Debug/net6.0/Pronia.pdb
+/Users/mcloveen/Desktop/ProniaApp/Pronia/obj/Debug/net6.0/Pronia.genruntimeconfig.cache
+/Users/mcloveen/Desktop/ProniaApp/Pronia/obj/Debug/net6.0/ref/Pronia.dll

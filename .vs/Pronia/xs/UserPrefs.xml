@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{02DEE863-4040-4F47-8463-0B1F70A8AFB4}|ProniaNew">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Pronia PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DataAccess/ProniaDbContext.cs">
+    <Files>
+      <File FileName="Areas/Manage/Controllers/CategoryController.cs" />
+      <File FileName="Areas/Manage/Controllers/ProductController.cs" />
+      <File FileName="Areas/Manage/Controllers/SliderController.cs" />
+      <File FileName="Controllers/FlowerController.cs" />
+      <File FileName="Controllers/HomeController.cs" />
+      <File FileName="DataAccess/ProniaDbContext.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Pronia" expanded="True">
+            <Node name="Pronia" expanded="True">
+              <Node name="Areas" expanded="True">
+                <Node name="Manage" expanded="True">
+                  <Node name="Controllers" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="DataAccess" expanded="True">
+                <Node name="ProniaDbContext.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

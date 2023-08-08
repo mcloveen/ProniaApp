@@ -1,0 +1,27 @@
+﻿@model List<BasketItemProductVM>
+<div class="minicart-content">
+
+    <ul class="minicart-list">
+        @foreach (var item in Model)
+        {
+            <li class="minicart-product">
+                <a class="product-item_remove" href="#">
+                    <i class="pe-7s-close" data-tippy="Remove"
+                       data-tippy-inertia="true" data-tippy-animation="shift-away" data-tippy-delay="50"
+                       data-tippy-arrow="true" data-tippy-theme="sharpborder"></i>
+                </a>
+                <a asp-action="Detail" asp-controller="Flower" asp-route-id="@item.Product.Id" class="product-item_img">
+                    <img class="img-full" src="@item.Product.MainImage" alt="Product Image">
+                </a>
+                <div class="product-item_content">
+                    <a class="product-item_title" href="single-product-variable.html">@item.Product.Name</a>
+                    <span class="product-item_quantity">@item.Count x $@item.Product.Price</span>
+                </div>
+            </li>
+        }
+    </ul>
+</div>
+<div class="minicart-item_total">
+    <span>Subtotal</span>
+    <span class="ammount">$79.35</span>
+</div>

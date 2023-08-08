@@ -1,0 +1,71 @@
+﻿@{
+    ViewData["Title"] = "Index";
+}
+@model List<Slider>
+<a asp-controller="Slider" asp-action="Create" class="btn btn-success mb-2">Create</a>
+<table class="table table-dark">
+    <tr>
+        <th>Id</th>
+        <th>Title</th>
+        <th>Description</th>
+        <th>Offer</th>
+        <th>ButtonText</th>
+        <th>Image</th>
+        <th colspan="2">Actions</th>
+    </tr>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.Title</td>
+                <td>@item.Description</td>
+                <td>@item.Offer</td>
+                <td>@item.ButtonText</td>
+                <td>
+                    @if (item.ImageUrl.StartsWith("http"))
+                    {
+                        <img src="@item.ImageUrl" width="50">
+                    }
+                    else
+                    {
+                        <img src="~/assets/imgs/@item.ImageUrl" width="50">
+                    }
+                </td>
+                <td><a asp-area="Manage" asp-controller="Slider" asp-action="Update" asp-route-id="@item.Id" class="btn btn-warning">Update</a></td>
+                <td>
+                    <a asp-area="Manage" asp-controller="Slider" asp-action="Delete"
+                       asp-route-id="@item.Id" class="btn btn-danger delete-btn">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+@section scripts{
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    @if ((bool?)TempData["IsDeleted"] == true)
+    {
+        <script>Swal.fire(
+                'Deleted!',
+                'Your file has been deleted.',
+                'success'
+            )</script>
+    }
+    <script>$(".delete-btn").click(e => {
+            e.preventDefault();
+            let url = e.target.href;
+        Swal.fire({
+            title: 'Are you sure?',
+            text: "You won't be able to revert this!",
+            icon: 'warning',
+            showCancelButton: true,
+            confirmButtonColor: '#3085d6',
+            cancelButtonColor: '#d33',
+            confirmButtonText: 'Yes, delete it!'
+        }).then((result) => {
+            if (result.isConfirmed) {
+               window.location.href = url;
+            }
+        })
+        })</script>
+}

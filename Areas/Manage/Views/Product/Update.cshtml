@@ -1,0 +1,114 @@
+﻿@{
+    ViewData["Title"] = "Update";
+}
+@section styles{
+    <style>
+        .prod-images {
+            display: flex;
+            gap: 10px;
+        }
+
+            .prod-images div {
+                position: relative;
+            }
+
+                .prod-images div .x-button {
+                    position: absolute;
+                    top: auto;
+                    right: 2.5px;
+                    font-size: 20px;
+                    cursor: pointer;
+                    color: black;
+                    background-color: white;
+                    padding: 5px;
+                }
+    </style>
+    <link href="~/assets/select2/css/select2.min.css" rel="stylesheet" />
+
+}
+@model UpdateProductGETVM
+
+<form method="post" enctype="multipart/form-data">
+    <div class="mb-3">
+        <label for="exampleInputEmail1" class="form-label">Name</label>
+        <input class="form-control" asp-for="Name">
+        <span class="text-danger" asp-validation-for="Name"></span>
+    </div>
+    <div class="mb-3">
+        <label for="exampleInputEmail1" class="form-label">Description</label>
+        <input class="form-control" asp-for="Description">
+        <span class="text-danger" asp-validation-for="Description"></span>
+    </div>
+    <div class="mb-3">
+        <label for="exampleInputEmail1" class="form-label">Price</label>
+        <input class="form-control" asp-for="Price">
+        <span class="text-danger" asp-validation-for="Price"></span>
+    </div>
+    <div class="mb-3">
+        <label for="exampleInputEmail1" class="form-label">Discount</label>
+        <input class="form-control" asp-for="Discount">
+        <span class="text-danger" asp-validation-for="Discount"></span>
+    </div>
+    <div class="mb-3">
+        <label for="exampleInputEmail1" class="form-label">StockCount</label>
+        <input class="form-control" asp-for="StockCount">
+        <span class="text-danger" asp-validation-for="StockCount"></span>
+    </div>
+    <div class="mb-3">
+        <label for="exampleInputEmail1" class="form-label">Rating</label>
+        <input class="form-control" asp-for="Rating">
+        <span class="text-danger" asp-validation-for="Rating"></span>
+    </div>
+    <div class="mb-3">
+        <label for="exampleInputEmail1" class="form-label">ProductCategoryIds</label>
+        <select class="hello w-100" asp-for="ProductCategoryIds" asp-items="@ViewBag.Categories"
+                multiple="multiple">
+        </select>
+        <span class="text-danger" asp-validation-for="ProductCategoryIds"></span>
+    </div>
+    <div class="mb-3">
+        <label for="exampleInputEmail1" class="form-label"><img width="100" height="100" src="~/@Model.MainImage" /></label>
+        <input class="form-control" asp-for="MainImageFile">
+        <span class="text-danger" asp-validation-for="MainImageFile"></span>
+    </div>
+    <div class="mb-3">
+        <label for="exampleInputEmail1" class="form-label"><img width="100" height="100" src="~/@Model?.HoverImage" /></label>
+        <input class="form-control" asp-for="HoverImageFile">
+        <span class="text-danger" asp-validation-for="HoverImageFile"></span>
+    </div>
+    <div class="mb-3">
+        <label for="ImageFiles" class="form-label prod-images">
+            @foreach (var item in Model?.ProductImages)
+            {
+                <div>
+                    <a asp-action="DeleteImage" asp-route-id="@item.Id" class="x-button">X</a>
+                    <img width="100" height="100" src="~/@item.Name" />
+                </div>
+            }
+        </label>
+        <input class="form-control" asp-for="ProductImagesFile">
+        <span class="text-danger" asp-validation-for="ProductImagesFile"></span>
+    </div>
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>
+@section scripts{
+    <script src="~/assets/select2/js/select2.min.js"></script>
+    <script>$(document).ready(function () {
+            $('.hello').select2({
+                maximumSelectionLength: 4
+            });
+        });</script>
+    <script>$(".x-button").click(e => {
+            e.preventDefault();
+            let elem = e.target;
+            fetch(elem.href).then(res => {
+                if (res.ok == true) {
+                    elem.parentElement.remove();
+                }
+            })
+                .catch(e => {
+                    console.log(e);
+                })
+
+        })</script>
+}
