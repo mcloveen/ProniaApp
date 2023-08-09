@@ -2,8 +2,8 @@
 using Pronia.DataAccess;
 using Pronia.ExtensionServices.Interfaces;
 using Pronia.Models;
-using Pronia.ViewModels.ProductVMs;
 using Pronia.Services.Interfaces;
+using Pronia.ViewModels.ProductVMs;
 
 namespace Pronia.Services.Implements;
 

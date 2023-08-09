@@ -2,8 +2,8 @@
 using Pronia.DataAccess;
 using Pronia.ExtensionServices.Interfaces;
 using Pronia.Models;
-using Pronia.ViewModels.SliderVMs;
 using Pronia.Services.Interfaces;
+using Pronia.ViewModels.SliderVMs;
 
 namespace Pronia.Services.Implements;
 

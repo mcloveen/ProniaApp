@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/mcloveen/Projects/ProniaApp/ProniaNew/ProniaNew.csproj": {}
+    "/Users/furuktoza/Projects/ProniaNew/ProniaNew/ProniaNew.csproj": {}
   },
   "projects": {
-    "/Users/mcloveen/Projects/ProniaApp/ProniaNew/ProniaNew.csproj": {
+    "/Users/furuktoza/Projects/ProniaNew/ProniaNew/ProniaNew.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mcloveen/Projects/ProniaApp/ProniaNew/ProniaNew.csproj",
+        "projectUniqueName": "/Users/furuktoza/Projects/ProniaNew/ProniaNew/ProniaNew.csproj",
         "projectName": "ProniaNew",
-        "projectPath": "/Users/mcloveen/Projects/ProniaApp/ProniaNew/ProniaNew.csproj",
-        "packagesPath": "/Users/mcloveen/.nuget/packages/",
-        "outputPath": "/Users/mcloveen/Projects/ProniaApp/ProniaNew/obj/",
+        "projectPath": "/Users/furuktoza/Projects/ProniaNew/ProniaNew/ProniaNew.csproj",
+        "packagesPath": "/Users/furuktoza/.nuget/packages/",
+        "outputPath": "/Users/furuktoza/Projects/ProniaNew/ProniaNew/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/mcloveen/.nuget/NuGet/NuGet.Config"
+          "/Users/furuktoza/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"

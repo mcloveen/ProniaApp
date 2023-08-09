@@ -1,5 +1,4 @@
-﻿using System;
-namespace Pronia.ViewModels.BasketVMs;
+﻿namespace Pronia.ViewModels.BasketVMs;
 
 public record BasketItemVM
 {

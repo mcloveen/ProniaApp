@@ -37,6 +37,8 @@
     <None Remove="ViewModels\AuthVMs\" />
     <None Remove="Views\Auth\" />
     <None Remove="Views\Shared\Components\Basket\" />
+    <None Remove="ViewModels\UserVMs\" />
+    <None Remove="Areas\Manage\Views\User\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Models\" />
@@ -71,6 +73,9 @@
     <Folder Include="ViewModels\AuthVMs\" />
     <Folder Include="Views\Auth\" />
     <Folder Include="Views\Shared\Components\Basket\" />
+    <Folder Include="ViewModels\ProductVMs\" />
+    <Folder Include="ViewModels\UserVMs\" />
+    <Folder Include="Areas\Manage\Views\User\" />
   </ItemGroup>
   <ItemGroup>
     <Content Remove="wwwroot\" />

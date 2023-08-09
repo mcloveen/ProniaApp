@@ -1,5 +1,4 @@
-﻿using System;
-using Pronia.Models;
+﻿using Pronia.Models;
 
 namespace Pronia.ViewModels.HomeVMs;
 

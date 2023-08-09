@@ -1,5 +1,4 @@
-﻿using System;
-using Pronia.Models;
+﻿using Pronia.Models;
 using System.ComponentModel.DataAnnotations;
 
 namespace Pronia.ViewModels.ProductVMs;

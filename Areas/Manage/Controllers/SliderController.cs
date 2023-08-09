@@ -1,12 +1,14 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using Pronia.Extensions;
-using Pronia.ViewModels.SliderVMs;
 using Pronia.Services.Interfaces;
+using Pronia.ViewModels.SliderVMs;
 
 // For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
 namespace Pronia.Areas.Manage.Controllers;
 [Area("Manage")]
+[Authorize(Roles = "Admin ,Editor")]
 public class SliderController : Controller
 {
     private readonly ISliderService _sliderService;
@@ -94,4 +96,3 @@ public class SliderController : Controller
         }
     }
 }
-

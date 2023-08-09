@@ -1,5 +1,4 @@
-﻿using System;
-using Pronia.Extensions;
+﻿using Pronia.Extensions;
 using Pronia.ExtensionServices.Interfaces;
 
 namespace Pronia.ExtensionServices.Implements;

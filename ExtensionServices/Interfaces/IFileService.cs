@@ -1,5 +1,4 @@
-﻿using System;
-namespace Pronia.ExtensionServices.Interfaces
+﻿namespace Pronia.ExtensionServices.Interfaces
 {
     public interface IFileService
     {

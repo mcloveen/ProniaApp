@@ -1,33 +1,171 @@
-﻿<Properties StartupConfiguration="{02DEE863-4040-4F47-8463-0B1F70A8AFB4}|ProniaNew">
-  <MultiItemStartupConfigurations />
+﻿<Properties StartupConfiguration="{02DEE863-4040-4F47-8463-0B1F70A8AFB4}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Pronia PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Pronia PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="DataAccess/ProniaDbContext.cs">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Areas/Manage/Views/Category/Index.cshtml">
     <Files>
-      <File FileName="Areas/Manage/Controllers/CategoryController.cs" />
-      <File FileName="Areas/Manage/Controllers/ProductController.cs" />
-      <File FileName="Areas/Manage/Controllers/SliderController.cs" />
-      <File FileName="Controllers/FlowerController.cs" />
-      <File FileName="Controllers/HomeController.cs" />
+      <File FileName="Areas/Manage/Controllers/CategoryController.cs" Line="1" Column="1" />
+      <File FileName="Areas/Manage/Controllers/ProductController.cs" Line="1" Column="1" />
+      <File FileName="Areas/Manage/Controllers/SliderController.cs" Line="1" Column="1" />
+      <File FileName="Controllers/FlowerController.cs" Line="1" Column="1" />
+      <File FileName="Controllers/HomeController.cs" Line="1" Column="1" />
       <File FileName="DataAccess/ProniaDbContext.cs" Line="1" Column="1" />
+      <File FileName="Areas/Manage/Views/Category/Create.cshtml" Line="1" Column="1" />
+      <File FileName="Areas/Manage/Views/Category/Index.cshtml" Line="1" Column="1" />
+      <File FileName="Areas/Manage/Views/_ViewImports.cshtml" Line="1" Column="1" />
+      <File FileName="Areas/Manage/Views/_ViewStart.cshtml" Line="1" Column="1" />
+      <File FileName="Areas/Manage/Views/Product/Create.cshtml" Line="1" Column="1" />
+      <File FileName="Areas/Manage/Views/Product/Index.cshtml" Line="1" Column="1" />
+      <File FileName="Areas/Manage/Views/Product/Update.cshtml" Line="1" Column="1" />
+      <File FileName="Areas/Manage/Views/Shared/_AdminLayout.cshtml" Line="1" Column="1" />
+      <File FileName="Areas/Manage/Views/Shared/_ValidationPartial.cshtml" Line="1" Column="1" />
+      <File FileName="Extensions/FileExtension.cs" Line="1" Column="1" />
+      <File FileName="ExtensionServices/Implements/FileService.cs" Line="1" Column="1" />
+      <File FileName="ExtensionServices/Interfaces/IFileService.cs" Line="1" Column="1" />
+      <File FileName="Models/AppUser.cs" Line="1" Column="1" />
+      <File FileName="Models/Category.cs" Line="1" Column="1" />
+      <File FileName="Models/Product.cs" Line="1" Column="1" />
+      <File FileName="Models/Setting.cs" Line="1" Column="1" />
+      <File FileName="Properties/launchSettings.json" Line="1" Column="1" />
+      <File FileName="Services/LayoutService.cs" Line="1" Column="1" />
+      <File FileName="Services/Implements/CategoryService.cs" Line="1" Column="1" />
+      <File FileName="Services/Implements/ProductService.cs" Line="1" Column="1" />
+      <File FileName="Services/Implements/SliderService.cs" Line="1" Column="1" />
+      <File FileName="Services/ServiceRegistration.cs" Line="1" Column="1" />
+      <File FileName="ViewComponents/BasketViewComponent.cs" Line="1" Column="1" />
+      <File FileName="ViewComponents/FooterViewComponent.cs" Line="1" Column="1" />
+      <File FileName="ViewComponents/HeaderViewComponent.cs" Line="1" Column="7" />
+      <File FileName="ViewModels/AuthVMs/LoginVM.cs" Line="1" Column="1" />
+      <File FileName="ViewModels/AuthVMs/RegisterVM.cs" Line="1" Column="1" />
+      <File FileName="ViewModels/BasketVMs/BasketItemProductVM.cs" Line="1" Column="1" />
+      <File FileName="ViewModels/BasketVMs/BasketItemVM.cs" Line="1" Column="1" />
+      <File FileName="ViewModels/HomeVMs/HomeVM.cs" Line="1" Column="1" />
+      <File FileName="ViewModels/ProductVMs/CreateProductVM.cs" Line="1" Column="1" />
+      <File FileName="ViewModels/ProductVMs/FilterVMs.cs" Line="1" Column="1" />
+      <File FileName="ViewModels/ProductVMs/GetShopVM.cs" Line="1" Column="1" />
+      <File FileName="ViewModels/ProductVMs/UpdateProductGETVM.cs" Line="1" Column="1" />
+      <File FileName="ViewModels/ProductVMs/UpdateProductVM.cs" Line="1" Column="1" />
+      <File FileName="ViewModels/SliderVMs/CreateSliderVM.cs" Line="1" Column="1" />
+      <File FileName="ViewModels/SliderVMs/UpdateSliderVM.cs" Line="1" Column="1" />
+      <File FileName="Views/Auth/Login.cshtml" Line="1" Column="1" />
+      <File FileName="Views/Auth/Register.cshtml" Line="1" Column="1" />
+      <File FileName="Views/Flower/Index.cshtml" Line="1" Column="1" />
+      <File FileName="Views/Flower/Details.cshtml" Line="1" Column="1" />
+      <File FileName="Views/Home/Index.cshtml" Line="1" Column="1" />
+      <File FileName="Views/_ViewImports.cshtml" Line="1" Column="1" />
+      <File FileName="Views/_ViewStart.cshtml" Line="1" Column="1" />
+      <File FileName="wwwroot/error.html" />
+      <File FileName="appsettings.json" Line="1" Column="1" />
+      <File FileName="Program.cs" Line="4" Column="13" />
+      <File FileName="Areas/Manage/Controllers/UserController.cs" Line="1" Column="1" />
+      <File FileName="Areas/Manage/Views/Slider/Create.cshtml" Line="1" Column="1" />
+      <File FileName="Areas/Manage/Views/Slider/Index.cshtml" Line="1" Column="1" />
+      <File FileName="Areas/Manage/Views/Slider/Update.cshtml" Line="1" Column="1" />
+      <File FileName="Controllers/AuthController.cs" Line="109" Column="75" />
+      <File FileName="ExtensionServices/Implements/EmailService.cs" Line="1" Column="1" />
+      <File FileName="ExtensionServices/Interfaces/IEmailService.cs" Line="1" Column="1" />
+      <File FileName="Migrations/20230806202042_CreatedSlidersTable.cs" />
+      <File FileName="Migrations/20230806202042_CreatedSlidersTable.Designer.cs" Line="1" Column="1" />
+      <File FileName="Migrations/20230806202126_CreatedProductsTable.cs" />
+      <File FileName="Migrations/20230806202126_CreatedProductsTable.Designer.cs" Line="1" Column="1" />
+      <File FileName="Migrations/20230806202209_CreatedProductsImageTable.cs" />
+      <File FileName="Migrations/20230806202209_CreatedProductsImageTable.Designer.cs" Line="1" Column="1" />
+      <File FileName="Migrations/20230806202245_CreatedSettingsTable.cs" />
+      <File FileName="Migrations/20230806202245_CreatedSettingsTable.Designer.cs" Line="1" Column="1" />
+      <File FileName="Migrations/20230806202338_CreatedCategoriesTable.cs" />
+      <File FileName="Migrations/20230806202338_CreatedCategoriesTable.Designer.cs" Line="1" Column="1" />
+      <File FileName="Migrations/20230806202727_CreatedProductCategoriesTable.cs" />
+      <File FileName="Migrations/20230806202727_CreatedProductCategoriesTable.Designer.cs" Line="1" Column="1" />
+      <File FileName="Migrations/20230807211923_CreatedUsersTable.cs" />
+      <File FileName="Migrations/20230807211923_CreatedUsersTable.Designer.cs" Line="1" Column="1" />
+      <File FileName="Migrations/20230809033926_CreatedProductCommentsTable.cs" />
+      <File FileName="Migrations/20230809033926_CreatedProductCommentsTable.Designer.cs" Line="1" Column="1" />
+      <File FileName="Migrations/ProniaDbContextModelSnapshot.cs" Line="1" Column="1" />
+      <File FileName="ViewModels/ProductVMs/AddCommentToProductVM.cs" Line="1" Column="1" />
+      <File FileName="ViewModels/UserVMs/UserAndRolesVM.cs" Line="1" Column="1" />
+      <File FileName="Models/BaseEntity.cs" Line="1" Column="1" />
+      <File FileName="Models/ProductCategory.cs" Line="1" Column="1" />
+      <File FileName="Models/ProductComment.cs" Line="1" Column="1" />
+      <File FileName="Models/ProductImage.cs" />
+      <File FileName="Models/Slider.cs" Line="1" Column="1" />
+      <File FileName="Services/Interfaces/ICategoryService.cs" />
+      <File FileName="Services/Interfaces/IProductService.cs" />
+      <File FileName="Services/Interfaces/ISliderService.cs" />
+      <File FileName="Views/Shared/_ProductPartial.cshtml" Line="1" Column="1" />
+      <File FileName="Views/Shared/_ProductsFilterPartial.cshtml" Line="1" Column="1" />
+      <File FileName="Views/Shared/_ValidationPartial.cshtml" Line="1" Column="1" />
+      <File FileName="Views/Shared/_BasketPartial.cshtml" Line="3" Column="1" />
+      <File FileName="Views/Shared/_Layout.cshtml" Line="5" Column="2" />
+      <File FileName="Views/Shared/_Layout.cshtml.css" Line="1" Column="1" />
+      <File FileName="Views/Shared/Components/Basket/Default.cshtml" Line="1" Column="19" />
+      <File FileName="Views/Shared/Components/Footer/Default.cshtml" Line="1" Column="1" />
+      <File FileName="Views/Shared/Components/Header/Default.cshtml" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Pronia" expanded="True">
+          <Node name="Pronia">
             <Node name="Pronia" expanded="True">
               <Node name="Areas" expanded="True">
                 <Node name="Manage" expanded="True">
                   <Node name="Controllers" expanded="True" />
+                  <Node name="Views" expanded="True">
+                    <Node name="Category" expanded="True" />
+                    <Node name="Product" expanded="True" />
+                    <Node name="Shared" expanded="True" />
+                    <Node name="Slider" expanded="True" />
+                  </Node>
                 </Node>
               </Node>
-              <Node name="DataAccess" expanded="True">
-                <Node name="ProniaDbContext.cs" selected="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="DataAccess" expanded="True" />
+              <Node name="Extensions" expanded="True" />
+              <Node name="ExtensionServices" expanded="True">
+                <Node name="Implements" expanded="True" />
+                <Node name="Interfaces" expanded="True" />
               </Node>
+              <Node name="Migrations" expanded="True">
+                <Node name="20230806202042_CreatedSlidersTable.cs" expanded="True" />
+                <Node name="20230806202126_CreatedProductsTable.cs" expanded="True" />
+                <Node name="20230806202209_CreatedProductsImageTable.cs" expanded="True" />
+                <Node name="20230806202245_CreatedSettingsTable.cs" expanded="True" />
+                <Node name="20230806202338_CreatedCategoriesTable.cs" expanded="True" />
+                <Node name="20230806202727_CreatedProductCategoriesTable.cs" expanded="True" />
+                <Node name="20230807211923_CreatedUsersTable.cs" expanded="True" />
+                <Node name="20230809033926_CreatedProductCommentsTable.cs" expanded="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Services" expanded="True">
+                <Node name="Implements" expanded="True" />
+              </Node>
+              <Node name="ViewComponents" expanded="True" />
+              <Node name="ViewModels" expanded="True">
+                <Node name="AuthVMs" expanded="True" />
+                <Node name="BasketVMs" expanded="True" />
+                <Node name="HomeVMs" expanded="True" />
+                <Node name="ProductVMs" expanded="True" />
+                <Node name="SliderVMs" expanded="True" />
+                <Node name="UserVMs" expanded="True" />
+              </Node>
+              <Node name="Views" expanded="True">
+                <Node name="Auth" expanded="True" />
+                <Node name="Flower" expanded="True" />
+                <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True">
+                  <Node name="Components" expanded="True">
+                    <Node name="Basket" expanded="True" />
+                    <Node name="Footer" expanded="True" />
+                    <Node name="Header" expanded="True" />
+                  </Node>
+                  <Node name="_Layout.cshtml" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="wwwroot" expanded="True" />
             </Node>
           </Node>
         </State>

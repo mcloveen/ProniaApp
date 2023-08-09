@@ -1,5 +1,4 @@
-﻿using System;
-namespace Pronia.ViewModels.ProductVMs;
+﻿namespace Pronia.ViewModels.ProductVMs;
 
 public record FilterVM
 {

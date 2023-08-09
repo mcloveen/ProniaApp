@@ -23,11 +23,18 @@ builder.Services.AddDbContext<ProniaDbContext>(opt =>
     opt.User.AllowedUserNameCharacters = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789._";
     opt.Password.RequireNonAlphanumeric = false;
     opt.Password.RequiredLength = 8;
-    opt.Lockout.AllowedForNewUsers = true;
     opt.Lockout.MaxFailedAccessAttempts = 1;
     opt.SignIn.RequireConfirmedEmail = false;
 }).AddDefaultTokenProviders().AddEntityFrameworkStores<ProniaDbContext>();
 builder.Services.AddHttpContextAccessor();
+
+builder.Services.ConfigureApplicationCookie(options =>
+{
+    options.LoginPath = "/Auth/Login";
+    options.AccessDeniedPath = "/Auth/AccesDenied";
+});
+
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -47,8 +54,8 @@ app.UseStaticFiles();
 
 app.UseRouting();
 
-app.UseAuthorization();
 app.UseAuthentication();
+app.UseAuthorization();
 
 app.UseEndpoints(endpoints =>
 {

@@ -1,5 +1,4 @@
-﻿using System;
-namespace Pronia.Extensions;
+﻿namespace Pronia.Extensions;
 
 public static class FileExtension
 {

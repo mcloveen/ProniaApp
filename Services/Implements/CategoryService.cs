@@ -1,11 +1,10 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Pronia.DataAccess;
 using Pronia.Models;
-using Pronia.Services.Interfaces;
 
 namespace Pronia.Services.Implements;
 
-public class CategoryService : ICategoryService
+public class CategoryService : Interfaces.ICategoryService
 {
     readonly ProniaDbContext _context;
     public CategoryService(ProniaDbContext context)

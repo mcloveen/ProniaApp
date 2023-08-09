@@ -1,5 +1,4 @@
-﻿using System;
-using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 using Pronia.Models;
 
@@ -7,7 +6,9 @@ namespace Pronia.DataAccess;
 public class ProniaDbContext : IdentityDbContext
 {
     public ProniaDbContext(DbContextOptions options) : base(options)
-    {}
+    {
+
+    }
     public DbSet<Slider> Sliders { get; set; }
     public DbSet<Product> Products { get; set; }
     public DbSet<ProductImage> ProductImages { get; set; }
@@ -15,6 +16,7 @@ public class ProniaDbContext : IdentityDbContext
     public DbSet<ProductCategory> ProductCategories { get; set; }
     public DbSet<Setting> Settings { get; set; }
     public DbSet<AppUser> AppUsers { get; set; }
+    public DbSet<ProductComment> ProductComments { get; set; }
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {

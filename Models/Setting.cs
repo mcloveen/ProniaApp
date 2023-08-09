@@ -1,5 +1,4 @@
-﻿using System;
-namespace Pronia.Models
+﻿namespace Pronia.Models
 {
     public class Setting : BaseEntity
     {

@@ -403,5 +403,59 @@
         </div>
     </div>
     <!-- Product Area End Here -->
+    <div class="container">
+        <div class="blog-comment mt-0">
+            <h4 class="heading">Comments (@Model.ProductComments.Count)</h4>
+            @foreach (var comment in Model.ProductComments)
+            {
+                <div class="blog-comment-item">
+                    <div class="blog-comment-content">
+                        <div class="user-meta">
+                            <h2 class="user-name">@comment.AppUser.Fullname</h2>
+                            <span class="date">@comment.PostedTime</span>
+                        </div>
+                        <p class="user-comment">
+                            @comment.Comment
+                        </p>
+                        <a class="btn btn-custom-size comment-btn" href="javascript:void(0);">Reply</a>
+                    </div>
+                </div>
+            }
+        </div>
+        @if (User.Identity.IsAuthenticated)
+        {
+            <div class="feedback-area">
+                <h2 class="heading">Leave a comment</h2>
+                <form class="feedback-form" method="post" asp-action="PostComment">
+                    <input type="hidden" name="ProductId" value="@Model.Id" />
+                    <div class="form-field mt-30">
+                        <textarea name="comment" placeholder="Message" class="textarea-field"></textarea>
+                    </div>
+                    <div class="button-wrap pt-5">
+                        <button type="submit" value="submit"
+                                class="btn btn-custom-size xl-size btn-pronia-primary" name="submit">
+                            Post
+                            Comment
+                        </button>
+                    </div>
+                </form>
+            </div>
+        }
+        else
+        {
+            <div class="feedback-area">
+                <div class="button-wrap pt-5">
+                    <a asp-action="Login" asp-controller="Auth"
+                       asp-route-ReturnUrl="/Flower/Detail/@Model.Id"
+                       value="submit"
+                       class="btn btn-custom-size xl-size btn-pronia-primary"
+                       name="submit">
+                        Login For
+                        Comment
+                    </a>
+                </div>
+            </div>
+        }
 
+    </div>
 </main>
